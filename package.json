@@ -1,5 +1,5 @@
 {
-  "name": "Self_Integrity_Check",
-  "description": "Allows you to easily build self-checking capability into your functions and classes.",
-  "version": "3.6.1"
+  "name": "Automatic_Backup_Redirector",
+  "description": "Javascript code to specify a number of backup URLs and automatically redirect the user to one if the site is not working correctly.",
+  "version": "4.6.1"
 }
