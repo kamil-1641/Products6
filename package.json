@@ -1,5 +1,5 @@
 {
-  "name": "Automatic Logic Minimalization",
-  "description": "Java code to compress logic functions to the minimal form automatically.",
-  "version": "2.6.1"
+  "name": "Self_Integrity_Check",
+  "description": "Allows you to easily build self-checking capability into your functions and classes.",
+  "version": "3.6.1"
 }
